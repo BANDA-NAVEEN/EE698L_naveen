@@ -8,3 +8,7 @@ plotted multivivrable guassian plots and contours
 along with the fitted lines added predicirted variance bars
 
 ASS2---------------SBL----------------------------------------
+applied sparse bayessian to estimate sparse vetore and plotted NNMSE
+
+ASS3------------------------EM----------------------
+Implementing EM-Algorithm for classifying two classes
